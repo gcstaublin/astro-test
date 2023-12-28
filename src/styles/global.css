@@ -1,0 +1,15 @@
+:root {
+  --color-text-contrast: rgba(0, 0, 0, .87);
+  --color-text-default: rgba(0, 0, 0, .71);
+  --color-text-subtle: rgba(0, 0, 0, .52);
+
+  --color-bg-default: #f6f6f2;
+  --color-bg-border: #e7e3d5;
+  --color-action: #00788c;
+}
+
+
+body {
+  background-color: var(--color-bg-default);
+  color: var(--color-action);
+}
