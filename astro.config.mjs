@@ -5,3 +5,7 @@ export default defineConfig({
   site: 'https://gcstaublin.github.io',
   base: '/astro-test',
 });
+
+{
+  base: '/astro-test'
+}
